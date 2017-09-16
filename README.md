@@ -3,6 +3,4 @@
 
 
 ## resources:
-
-## todos:
-- [ ] unit test case
++ http://lodashjs.com/docs/#_fillarray-value-start0-endarraylength
